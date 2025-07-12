@@ -30,7 +30,7 @@ I'm a fast learner, always open to feedback, and I truly value working in **coll
 ---
 
 ### 📂 Projects (Selection)
-- 🌺 **Flower Recognition App (Licență)** – A mobile AR application developed in Unity that recognizes flowers using a TensorFlow Lite model trained on the Oxford 102 Flowers dataset. The app combines real-time image classification with Firebase authentication and a Gemini-powered chatbot to display interactive botanical information in augmented reality. Developed as part of my final year thesis.
+- 🌺 **Flower Recognition App (Bachelor Thesis)** – A mobile AR application developed in Unity that recognizes flowers using a TensorFlow Lite model trained on the Oxford 102 Flowers dataset. The app combines real-time image classification with Firebase authentication and a Gemini-powered chatbot to display interactive botanical information in augmented reality. Developed as part of my final year thesis.
 - 🧠 **Catalog AI** – an app that classifies types of bread using a custom-trained neural network and natural language input, developed for an AI university course.
 - 🎮 **FIIBurgeria** – interactive VR experience in Unity simulating a fast-food restaurant, allowing users to play the role of a cook and interact with customers (Mixed Reality).
 - 💻 **Meeting Scheduler** – GUI desktop app in Python using Tkinter that lets users manage meetings by date, time and participants.
@@ -50,7 +50,7 @@ I'm a fast learner, always open to feedback, and I truly value working in **coll
 
 - ✉️ Email: sebastian.bolohan97@gmail.com  
 - 🌐 GitHub: [@BolohanConstantin](https://github.com/BolohanConstantin)  
-- 💼 LinkedIn: *[Add your link here]*  
+- 💼 LinkedIn: *https://www.linkedin.com/in/constantin-sebastian-bolohan/*  
 - 📍 Based in: Iași, Romania
 
 
